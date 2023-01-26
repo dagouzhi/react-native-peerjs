@@ -1,6 +1,6 @@
 {
   "name": "@thyreality-inc/react-native-peerjs",
-  "version": "1.4.9",
+  "version": "1.5.0",
   "description": "react-native-webrtc + peerjs",
   "keywords": [
     "webrtc",
@@ -13,8 +13,7 @@
   "scripts": {},
   "main": "dist/react-native-peerjs.js",
   "devDependencies": {
-    "parcel": "1.12.3",
-    "peerjs": "1.0.5"
+    "parcel": "1.12.3"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
