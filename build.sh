@@ -13,6 +13,6 @@ cd ../
 cat imports.js dist/peerjs.min.js > dist/react-native-peerjs.js
 
 rm dist/peerjs.min.js
-rm -rf peerjs/
+# rm -rf peerjs/
 
 echo "Done. dist/react-native-peerjs.js"
