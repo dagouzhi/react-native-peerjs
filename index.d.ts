@@ -1,3 +1,3 @@
-declare module '@thyreality-inc/react-native-peerjs' {
+declare module '@hongtangyun/react-native-peerjs' {
     export * from 'peerjs';
 }
